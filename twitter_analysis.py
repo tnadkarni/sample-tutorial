@@ -9,6 +9,8 @@ import numpy as np
 
 tweets_data = []
 
+#for git testing
+
 tweets_data_path = 'twitterdata.txt' #specify name of twitter file
 
 #convert JSON data format into elements of Python list
